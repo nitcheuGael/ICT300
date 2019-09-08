@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "997896717215",
+    "firebase_url": "https://ict300-bf239.firebaseio.com",
+    "project_id": "ict300-bf239",
+    "storage_bucket": "ict300-bf239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997896717215:android:7949a9d24564ded42ef3aa",
+        "android_client_info": {
+          "package_name": "com.mas.ict300"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997896717215-c8l68neavcmv8v56df2nggbi6u5gm60c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mas.ict300",
+            "certificate_hash": "e945364a513e49ef55bc12fbfa9b3166d9e64922"
+          }
+        },
+        {
+          "client_id": "997896717215-mtncsdjde2c5h9sf99k9e2ridrqfnm9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9pFozhmnFu6ghK64Il05N_yNuvzWHuHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997896717215-mtncsdjde2c5h9sf99k9e2ridrqfnm9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
